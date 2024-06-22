@@ -36,10 +36,8 @@ export const AddUser = ({onAdd}) => {
             />
 
            <button>save</button>
+           
         </form>
     </div>
 }
 
-AddUser.propTypes ={
-    onAdd: Types.func
-}
